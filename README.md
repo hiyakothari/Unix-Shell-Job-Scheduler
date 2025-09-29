@@ -193,20 +193,6 @@ Bringing job [2] to foreground: sleep 200
 ^C
 ```
 
-## 📁 Project Structure
-
-```
-unix-shell-scheduler/
-├── shell.c              # Main shell implementation
-├── test_program.c       # Test program for job control
-├── Makefile             # Build configuration
-├── README.md            # This file
-├── LICENSE              # MIT License
-├── .gitignore           # Git ignore file
-└── docs/
-    └── CONTRIBUTING.md  # Contribution guidelines
-```
-
 ## 📚 Learning Outcomes
 
 This project demonstrates understanding of:
